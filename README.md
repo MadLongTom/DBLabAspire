@@ -2,6 +2,7 @@
 ## Requirements
 ```txt
 Docker Desktop
+.NET SDK 9.0
 ```
 ## Build
 ```bash
